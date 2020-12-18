@@ -1,0 +1,12 @@
+.navbox{
+    margin: 20px auto;
+}
+.btn{
+    width: 50px;
+    height: 20px;
+    background:#3366cc;
+    color: white;
+}
+.ml30{
+    margin-left: 30px;
+}
